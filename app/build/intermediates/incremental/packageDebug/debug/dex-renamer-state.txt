@@ -1,0 +1,4 @@
+#Tue Feb 13 16:46:18 IST 2018
+base.0=D\:\\VivekDubey\\Youtube\\yt-android-player-master1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
